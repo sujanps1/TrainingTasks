@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sujan.ps\\source\\repos\\WebAPITrail\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{952528A7-E08A-4318-AB60-4C84C9F74E0E}|WebAPITrail\\WebAPITrail.csproj|c:\\users\\sujan.ps\\source\\repos\\webapitrail\\webapitrail\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{952528A7-E08A-4318-AB60-4C84C9F74E0E}|WebAPITrail\\WebAPITrail.csproj|solutionrelative:webapitrail\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\source\\repos\\WebAPITrail\\WebAPITrail\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPITrail\\Program.cs",
+              "ToolTip": "C:\\Users\\sujan.ps\\source\\repos\\WebAPITrail\\WebAPITrail\\Program.cs",
+              "RelativeToolTip": "WebAPITrail\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T09:49:39.145Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

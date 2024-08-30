@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "02DjKhDIEMop3Hbc518XUVGYJNAk2R7a9+AOa9lW2G4=",
+  "Source": "WSServer",
+  "BasePath": "_content/WSServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

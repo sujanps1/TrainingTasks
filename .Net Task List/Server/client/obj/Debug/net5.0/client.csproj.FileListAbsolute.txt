@@ -1,0 +1,15 @@
+C:\Users\sujan.ps\source\repos\Server\client\bin\Debug\net5.0\client.exe
+C:\Users\sujan.ps\source\repos\Server\client\bin\Debug\net5.0\client.deps.json
+C:\Users\sujan.ps\source\repos\Server\client\bin\Debug\net5.0\client.runtimeconfig.json
+C:\Users\sujan.ps\source\repos\Server\client\bin\Debug\net5.0\client.runtimeconfig.dev.json
+C:\Users\sujan.ps\source\repos\Server\client\bin\Debug\net5.0\client.dll
+C:\Users\sujan.ps\source\repos\Server\client\bin\Debug\net5.0\client.pdb
+C:\Users\sujan.ps\source\repos\Server\client\obj\Debug\net5.0\client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sujan.ps\source\repos\Server\client\obj\Debug\net5.0\client.AssemblyInfoInputs.cache
+C:\Users\sujan.ps\source\repos\Server\client\obj\Debug\net5.0\client.AssemblyInfo.cs
+C:\Users\sujan.ps\source\repos\Server\client\obj\Debug\net5.0\client.csproj.CoreCompileInputs.cache
+C:\Users\sujan.ps\source\repos\Server\client\obj\Debug\net5.0\client.dll
+C:\Users\sujan.ps\source\repos\Server\client\obj\Debug\net5.0\refint\client.dll
+C:\Users\sujan.ps\source\repos\Server\client\obj\Debug\net5.0\client.pdb
+C:\Users\sujan.ps\source\repos\Server\client\obj\Debug\net5.0\client.genruntimeconfig.cache
+C:\Users\sujan.ps\source\repos\Server\client\obj\Debug\net5.0\ref\client.dll

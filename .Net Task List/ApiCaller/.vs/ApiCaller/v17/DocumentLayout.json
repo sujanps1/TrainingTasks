@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sujan.ps\\source\\repos\\ApiCaller\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCD94658-893D-476B-88A4-231D68353DC3}|ApiCaller\\ApiCaller.csproj|c:\\users\\sujan.ps\\source\\repos\\apicaller\\apicaller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCD94658-893D-476B-88A4-231D68353DC3}|ApiCaller\\ApiCaller.csproj|solutionrelative:apicaller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCD94658-893D-476B-88A4-231D68353DC3}|ApiCaller\\ApiCaller.csproj|c:\\users\\sujan.ps\\source\\repos\\apicaller\\apicaller\\models\\apiresponse.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCD94658-893D-476B-88A4-231D68353DC3}|ApiCaller\\ApiCaller.csproj|solutionrelative:apicaller\\models\\apiresponse.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCD94658-893D-476B-88A4-231D68353DC3}|ApiCaller\\ApiCaller.csproj|c:\\users\\sujan.ps\\source\\repos\\apicaller\\apicaller\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCD94658-893D-476B-88A4-231D68353DC3}|ApiCaller\\ApiCaller.csproj|solutionrelative:apicaller\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\source\\repos\\ApiCaller\\ApiCaller\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "ApiCaller\\Services\\ApiService.cs",
+              "ToolTip": "C:\\Users\\sujan.ps\\source\\repos\\ApiCaller\\ApiCaller\\Services\\ApiService.cs",
+              "RelativeToolTip": "ApiCaller\\Services\\ApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T09:57:49.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApiResponse.cs.cs",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\source\\repos\\ApiCaller\\ApiCaller\\Models\\ApiResponse.cs.cs",
+              "RelativeDocumentMoniker": "ApiCaller\\Models\\ApiResponse.cs.cs",
+              "ToolTip": "C:\\Users\\sujan.ps\\source\\repos\\ApiCaller\\ApiCaller\\Models\\ApiResponse.cs.cs",
+              "RelativeToolTip": "ApiCaller\\Models\\ApiResponse.cs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T09:57:33.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\source\\repos\\ApiCaller\\ApiCaller\\Program.cs",
+              "RelativeDocumentMoniker": "ApiCaller\\Program.cs",
+              "ToolTip": "C:\\Users\\sujan.ps\\source\\repos\\ApiCaller\\ApiCaller\\Program.cs",
+              "RelativeToolTip": "ApiCaller\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T09:55:31.159Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

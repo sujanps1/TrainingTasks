@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sujan.ps\\source\\repos\\WSServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F68E9461-1E29-4E60-984D-F61EFA8A9E68}|WSServer\\WSServer.csproj|c:\\users\\sujan.ps\\source\\repos\\wsserver\\wsserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68E9461-1E29-4E60-984D-F61EFA8A9E68}|WSServer\\WSServer.csproj|solutionrelative:wsserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBEA061D-2BD9-41D9-95B2-E432D1A774A0}|WSClient\\WSClient.csproj|c:\\users\\sujan.ps\\source\\repos\\wsserver\\wsclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBEA061D-2BD9-41D9-95B2-E432D1A774A0}|WSClient\\WSClient.csproj|solutionrelative:wsclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68E9461-1E29-4E60-984D-F61EFA8A9E68}|WSServer\\WSServer.csproj|c:\\users\\sujan.ps\\source\\repos\\wsserver\\wsserver\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68E9461-1E29-4E60-984D-F61EFA8A9E68}|WSServer\\WSServer.csproj|solutionrelative:wsserver\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\source\\repos\\WSServer\\WSServer\\Startup.cs",
+              "RelativeDocumentMoniker": "WSServer\\Startup.cs",
+              "ToolTip": "C:\\Users\\sujan.ps\\source\\repos\\WSServer\\WSServer\\Startup.cs",
+              "RelativeToolTip": "WSServer\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T08:20:00.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\source\\repos\\WSServer\\WSServer\\Program.cs",
+              "RelativeDocumentMoniker": "WSServer\\Program.cs",
+              "ToolTip": "C:\\Users\\sujan.ps\\source\\repos\\WSServer\\WSServer\\Program.cs",
+              "RelativeToolTip": "WSServer\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAswBkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T08:19:03.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\source\\repos\\WSServer\\WSClient\\Program.cs",
+              "RelativeDocumentMoniker": "WSClient\\Program.cs",
+              "ToolTip": "C:\\Users\\sujan.ps\\source\\repos\\WSServer\\WSClient\\Program.cs",
+              "RelativeToolTip": "WSClient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T04:15:39.089Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

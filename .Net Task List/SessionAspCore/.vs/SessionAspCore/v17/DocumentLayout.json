@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sujan.ps\\source\\repos\\SessionAspCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56EBD7B1-416B-4996-83C2-1AEA8DBAFFD3}|SessionAspCore\\SessionAspCore.csproj|c:\\users\\sujan.ps\\source\\repos\\sessionaspcore\\sessionaspcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56EBD7B1-416B-4996-83C2-1AEA8DBAFFD3}|SessionAspCore\\SessionAspCore.csproj|solutionrelative:sessionaspcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56EBD7B1-416B-4996-83C2-1AEA8DBAFFD3}|SessionAspCore\\SessionAspCore.csproj|c:\\users\\sujan.ps\\source\\repos\\sessionaspcore\\sessionaspcore\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56EBD7B1-416B-4996-83C2-1AEA8DBAFFD3}|SessionAspCore\\SessionAspCore.csproj|solutionrelative:sessionaspcore\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56EBD7B1-416B-4996-83C2-1AEA8DBAFFD3}|SessionAspCore\\SessionAspCore.csproj|c:\\users\\sujan.ps\\source\\repos\\sessionaspcore\\sessionaspcore\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56EBD7B1-416B-4996-83C2-1AEA8DBAFFD3}|SessionAspCore\\SessionAspCore.csproj|solutionrelative:sessionaspcore\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56EBD7B1-416B-4996-83C2-1AEA8DBAFFD3}|SessionAspCore\\SessionAspCore.csproj|c:\\users\\sujan.ps\\source\\repos\\sessionaspcore\\sessionaspcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56EBD7B1-416B-4996-83C2-1AEA8DBAFFD3}|SessionAspCore\\SessionAspCore.csproj|solutionrelative:sessionaspcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\source\\repos\\SessionAspCore\\SessionAspCore\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "SessionAspCore\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\sujan.ps\\source\\repos\\SessionAspCore\\SessionAspCore\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "SessionAspCore\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T09:54:19.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\source\\repos\\SessionAspCore\\SessionAspCore\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "SessionAspCore\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\sujan.ps\\source\\repos\\SessionAspCore\\SessionAspCore\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "SessionAspCore\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T09:53:00.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\source\\repos\\SessionAspCore\\SessionAspCore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SessionAspCore\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\sujan.ps\\source\\repos\\SessionAspCore\\SessionAspCore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SessionAspCore\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T09:41:37.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\source\\repos\\SessionAspCore\\SessionAspCore\\Program.cs",
+              "RelativeDocumentMoniker": "SessionAspCore\\Program.cs",
+              "ToolTip": "C:\\Users\\sujan.ps\\source\\repos\\SessionAspCore\\SessionAspCore\\Program.cs",
+              "RelativeToolTip": "SessionAspCore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T09:40:10.802Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

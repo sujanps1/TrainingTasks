@@ -1,0 +1,12 @@
+C:\Users\sujan.ps\source\repos\DemoLibrary\ConfigLibrary\bin\Debug\net5.0\ConfigLibrary.deps.json
+C:\Users\sujan.ps\source\repos\DemoLibrary\ConfigLibrary\bin\Debug\net5.0\ConfigLibrary.dll
+C:\Users\sujan.ps\source\repos\DemoLibrary\ConfigLibrary\bin\Debug\net5.0\ConfigLibrary.pdb
+C:\Users\sujan.ps\source\repos\DemoLibrary\ConfigLibrary\obj\Debug\net5.0\ConfigLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sujan.ps\source\repos\DemoLibrary\ConfigLibrary\obj\Debug\net5.0\ConfigLibrary.AssemblyInfoInputs.cache
+C:\Users\sujan.ps\source\repos\DemoLibrary\ConfigLibrary\obj\Debug\net5.0\ConfigLibrary.AssemblyInfo.cs
+C:\Users\sujan.ps\source\repos\DemoLibrary\ConfigLibrary\obj\Debug\net5.0\ConfigLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sujan.ps\source\repos\DemoLibrary\ConfigLibrary\obj\Debug\net5.0\ConfigLibrary.dll
+C:\Users\sujan.ps\source\repos\DemoLibrary\ConfigLibrary\obj\Debug\net5.0\refint\ConfigLibrary.dll
+C:\Users\sujan.ps\source\repos\DemoLibrary\ConfigLibrary\obj\Debug\net5.0\ConfigLibrary.pdb
+C:\Users\sujan.ps\source\repos\DemoLibrary\ConfigLibrary\obj\Debug\net5.0\ref\ConfigLibrary.dll
+C:\Users\sujan.ps\source\repos\DemoLibrary\ConfigLibrary\bin\Debug\net5.0\app.json

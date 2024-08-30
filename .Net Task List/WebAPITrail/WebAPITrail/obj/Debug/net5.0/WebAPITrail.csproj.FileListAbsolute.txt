@@ -1,0 +1,15 @@
+C:\Users\sujan.ps\source\repos\WebAPITrail\WebAPITrail\bin\Debug\net5.0\WebAPITrail.exe
+C:\Users\sujan.ps\source\repos\WebAPITrail\WebAPITrail\bin\Debug\net5.0\WebAPITrail.deps.json
+C:\Users\sujan.ps\source\repos\WebAPITrail\WebAPITrail\bin\Debug\net5.0\WebAPITrail.runtimeconfig.json
+C:\Users\sujan.ps\source\repos\WebAPITrail\WebAPITrail\bin\Debug\net5.0\WebAPITrail.runtimeconfig.dev.json
+C:\Users\sujan.ps\source\repos\WebAPITrail\WebAPITrail\bin\Debug\net5.0\WebAPITrail.dll
+C:\Users\sujan.ps\source\repos\WebAPITrail\WebAPITrail\bin\Debug\net5.0\WebAPITrail.pdb
+C:\Users\sujan.ps\source\repos\WebAPITrail\WebAPITrail\obj\Debug\net5.0\WebAPITrail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sujan.ps\source\repos\WebAPITrail\WebAPITrail\obj\Debug\net5.0\WebAPITrail.AssemblyInfoInputs.cache
+C:\Users\sujan.ps\source\repos\WebAPITrail\WebAPITrail\obj\Debug\net5.0\WebAPITrail.AssemblyInfo.cs
+C:\Users\sujan.ps\source\repos\WebAPITrail\WebAPITrail\obj\Debug\net5.0\WebAPITrail.csproj.CoreCompileInputs.cache
+C:\Users\sujan.ps\source\repos\WebAPITrail\WebAPITrail\obj\Debug\net5.0\WebAPITrail.dll
+C:\Users\sujan.ps\source\repos\WebAPITrail\WebAPITrail\obj\Debug\net5.0\refint\WebAPITrail.dll
+C:\Users\sujan.ps\source\repos\WebAPITrail\WebAPITrail\obj\Debug\net5.0\WebAPITrail.pdb
+C:\Users\sujan.ps\source\repos\WebAPITrail\WebAPITrail\obj\Debug\net5.0\WebAPITrail.genruntimeconfig.cache
+C:\Users\sujan.ps\source\repos\WebAPITrail\WebAPITrail\obj\Debug\net5.0\ref\WebAPITrail.dll

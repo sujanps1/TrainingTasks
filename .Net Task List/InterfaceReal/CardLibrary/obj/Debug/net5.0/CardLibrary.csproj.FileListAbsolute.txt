@@ -1,0 +1,11 @@
+C:\Users\sujan.ps\source\repos\InterfaceReal\CardLibrary\bin\Debug\net5.0\CardLibrary.deps.json
+C:\Users\sujan.ps\source\repos\InterfaceReal\CardLibrary\bin\Debug\net5.0\CardLibrary.dll
+C:\Users\sujan.ps\source\repos\InterfaceReal\CardLibrary\bin\Debug\net5.0\CardLibrary.pdb
+C:\Users\sujan.ps\source\repos\InterfaceReal\CardLibrary\obj\Debug\net5.0\CardLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sujan.ps\source\repos\InterfaceReal\CardLibrary\obj\Debug\net5.0\CardLibrary.AssemblyInfoInputs.cache
+C:\Users\sujan.ps\source\repos\InterfaceReal\CardLibrary\obj\Debug\net5.0\CardLibrary.AssemblyInfo.cs
+C:\Users\sujan.ps\source\repos\InterfaceReal\CardLibrary\obj\Debug\net5.0\CardLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sujan.ps\source\repos\InterfaceReal\CardLibrary\obj\Debug\net5.0\CardLibrary.dll
+C:\Users\sujan.ps\source\repos\InterfaceReal\CardLibrary\obj\Debug\net5.0\refint\CardLibrary.dll
+C:\Users\sujan.ps\source\repos\InterfaceReal\CardLibrary\obj\Debug\net5.0\CardLibrary.pdb
+C:\Users\sujan.ps\source\repos\InterfaceReal\CardLibrary\obj\Debug\net5.0\ref\CardLibrary.dll

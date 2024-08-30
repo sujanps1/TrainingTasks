@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sujan.ps\\source\\repos\\LoginFormAspCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E17142EB-B80B-4416-ABD9-F181F9871BE3}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\sujan.ps\\source\\repos\\loginformaspcore\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17142EB-B80B-4416-ABD9-F181F9871BE3}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17142EB-B80B-4416-ABD9-F181F9871BE3}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\sujan.ps\\source\\repos\\loginformaspcore\\consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E17142EB-B80B-4416-ABD9-F181F9871BE3}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C59F9542-58FC-495D-8CA3-912DA7DAFC45}|LoginFormAspCore\\LoginFormAspCore.csproj|c:\\users\\sujan.ps\\source\\repos\\loginformaspcore\\loginformaspcore\\controllers\\homedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C59F9542-58FC-495D-8CA3-912DA7DAFC45}|LoginFormAspCore\\LoginFormAspCore.csproj|solutionrelative:loginformaspcore\\controllers\\homedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C59F9542-58FC-495D-8CA3-912DA7DAFC45}|LoginFormAspCore\\LoginFormAspCore.csproj|c:\\users\\sujan.ps\\source\\repos\\loginformaspcore\\loginformaspcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C59F9542-58FC-495D-8CA3-912DA7DAFC45}|LoginFormAspCore\\LoginFormAspCore.csproj|solutionrelative:loginformaspcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C59F9542-58FC-495D-8CA3-912DA7DAFC45}|LoginFormAspCore\\LoginFormAspCore.csproj|c:\\users\\sujan.ps\\source\\repos\\loginformaspcore\\loginformaspcore\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C59F9542-58FC-495D-8CA3-912DA7DAFC45}|LoginFormAspCore\\LoginFormAspCore.csproj|solutionrelative:loginformaspcore\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C59F9542-58FC-495D-8CA3-912DA7DAFC45}|LoginFormAspCore\\LoginFormAspCore.csproj|c:\\users\\sujan.ps\\source\\repos\\loginformaspcore\\loginformaspcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C59F9542-58FC-495D-8CA3-912DA7DAFC45}|LoginFormAspCore\\LoginFormAspCore.csproj|solutionrelative:loginformaspcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsoleApp1",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\source\\repos\\LoginFormAspCore\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ConsoleApp1.csproj",
+              "ToolTip": "C:\\Users\\sujan.ps\\source\\repos\\LoginFormAspCore\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeToolTip": "ConsoleApp1\\ConsoleApp1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-22T12:14:02.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\source\\repos\\LoginFormAspCore\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\sujan.ps\\source\\repos\\LoginFormAspCore\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T12:10:29.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\source\\repos\\LoginFormAspCore\\LoginFormAspCore\\Controllers\\HomeDbContext.cs",
+              "RelativeDocumentMoniker": "LoginFormAspCore\\Controllers\\HomeDbContext.cs",
+              "ToolTip": "C:\\Users\\sujan.ps\\source\\repos\\LoginFormAspCore\\LoginFormAspCore\\Controllers\\HomeDbContext.cs",
+              "RelativeToolTip": "LoginFormAspCore\\Controllers\\HomeDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T10:51:54.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\source\\repos\\LoginFormAspCore\\LoginFormAspCore\\appsettings.json",
+              "RelativeDocumentMoniker": "LoginFormAspCore\\appsettings.json",
+              "ToolTip": "C:\\Users\\sujan.ps\\source\\repos\\LoginFormAspCore\\LoginFormAspCore\\appsettings.json",
+              "RelativeToolTip": "LoginFormAspCore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-22T10:39:36.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\source\\repos\\LoginFormAspCore\\LoginFormAspCore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LoginFormAspCore\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\sujan.ps\\source\\repos\\LoginFormAspCore\\LoginFormAspCore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LoginFormAspCore\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T10:39:25.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "user.cs",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\source\\repos\\LoginFormAspCore\\LoginFormAspCore\\Models\\user.cs",
+              "RelativeDocumentMoniker": "LoginFormAspCore\\Models\\user.cs",
+              "ToolTip": "C:\\Users\\sujan.ps\\source\\repos\\LoginFormAspCore\\LoginFormAspCore\\Models\\user.cs",
+              "RelativeToolTip": "LoginFormAspCore\\Models\\user.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T10:38:49.795Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

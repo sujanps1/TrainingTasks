@@ -1,0 +1,15 @@
+C:\Users\sujan.ps\source\repos\EndPointsWSServer\EndPointWSClient\bin\Debug\net5.0\EndPointWSClient.exe
+C:\Users\sujan.ps\source\repos\EndPointsWSServer\EndPointWSClient\bin\Debug\net5.0\EndPointWSClient.deps.json
+C:\Users\sujan.ps\source\repos\EndPointsWSServer\EndPointWSClient\bin\Debug\net5.0\EndPointWSClient.runtimeconfig.json
+C:\Users\sujan.ps\source\repos\EndPointsWSServer\EndPointWSClient\bin\Debug\net5.0\EndPointWSClient.runtimeconfig.dev.json
+C:\Users\sujan.ps\source\repos\EndPointsWSServer\EndPointWSClient\bin\Debug\net5.0\EndPointWSClient.dll
+C:\Users\sujan.ps\source\repos\EndPointsWSServer\EndPointWSClient\bin\Debug\net5.0\EndPointWSClient.pdb
+C:\Users\sujan.ps\source\repos\EndPointsWSServer\EndPointWSClient\obj\Debug\net5.0\EndPointWSClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sujan.ps\source\repos\EndPointsWSServer\EndPointWSClient\obj\Debug\net5.0\EndPointWSClient.AssemblyInfoInputs.cache
+C:\Users\sujan.ps\source\repos\EndPointsWSServer\EndPointWSClient\obj\Debug\net5.0\EndPointWSClient.AssemblyInfo.cs
+C:\Users\sujan.ps\source\repos\EndPointsWSServer\EndPointWSClient\obj\Debug\net5.0\EndPointWSClient.csproj.CoreCompileInputs.cache
+C:\Users\sujan.ps\source\repos\EndPointsWSServer\EndPointWSClient\obj\Debug\net5.0\EndPointWSClient.dll
+C:\Users\sujan.ps\source\repos\EndPointsWSServer\EndPointWSClient\obj\Debug\net5.0\refint\EndPointWSClient.dll
+C:\Users\sujan.ps\source\repos\EndPointsWSServer\EndPointWSClient\obj\Debug\net5.0\EndPointWSClient.pdb
+C:\Users\sujan.ps\source\repos\EndPointsWSServer\EndPointWSClient\obj\Debug\net5.0\EndPointWSClient.genruntimeconfig.cache
+C:\Users\sujan.ps\source\repos\EndPointsWSServer\EndPointWSClient\obj\Debug\net5.0\ref\EndPointWSClient.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sujan.ps\\source\\repos\\LoginServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2724C2D2-504C-4423-B013-B07952B84F9C}|LoginServer\\LoginServer.csproj|c:\\users\\sujan.ps\\source\\repos\\loginserver\\loginserver\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2724C2D2-504C-4423-B013-B07952B84F9C}|LoginServer\\LoginServer.csproj|solutionrelative:loginserver\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\source\\repos\\LoginServer\\LoginServer\\Startup.cs",
+              "RelativeDocumentMoniker": "LoginServer\\Startup.cs",
+              "ToolTip": "C:\\Users\\sujan.ps\\source\\repos\\LoginServer\\LoginServer\\Startup.cs",
+              "RelativeToolTip": "LoginServer\\Startup.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T16:48:15.813Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

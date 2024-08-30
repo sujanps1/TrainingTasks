@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WSServer", "WSServer\WSServer.csproj", "{F68E9461-1E29-4E60-984D-F61EFA8A9E68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WSClient", "WSClient\WSClient.csproj", "{FBEA061D-2BD9-41D9-95B2-E432D1A774A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F68E9461-1E29-4E60-984D-F61EFA8A9E68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F68E9461-1E29-4E60-984D-F61EFA8A9E68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F68E9461-1E29-4E60-984D-F61EFA8A9E68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F68E9461-1E29-4E60-984D-F61EFA8A9E68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBEA061D-2BD9-41D9-95B2-E432D1A774A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBEA061D-2BD9-41D9-95B2-E432D1A774A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBEA061D-2BD9-41D9-95B2-E432D1A774A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBEA061D-2BD9-41D9-95B2-E432D1A774A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DB448EB-2C6A-4FBC-8950-4FD87889F0FB}
+	EndGlobalSection
+EndGlobal

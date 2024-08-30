@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sujan.ps\\source\\repos\\CC6Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7362F7F3-C97D-4413-B25A-76526A178B62}|CC6Server\\CC6Server.csproj|c:\\users\\sujan.ps\\source\\repos\\cc6server\\cc6server\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7362F7F3-C97D-4413-B25A-76526A178B62}|CC6Server\\CC6Server.csproj|solutionrelative:cc6server\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7362F7F3-C97D-4413-B25A-76526A178B62}|CC6Server\\CC6Server.csproj|c:\\users\\sujan.ps\\source\\repos\\cc6server\\cc6server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7362F7F3-C97D-4413-B25A-76526A178B62}|CC6Server\\CC6Server.csproj|solutionrelative:cc6server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7362F7F3-C97D-4413-B25A-76526A178B62}|CC6Server\\CC6Server.csproj|c:\\users\\sujan.ps\\source\\repos\\cc6server\\cc6server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7362F7F3-C97D-4413-B25A-76526A178B62}|CC6Server\\CC6Server.csproj|solutionrelative:cc6server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\source\\repos\\CC6Server\\CC6Server\\Program.cs",
+              "RelativeDocumentMoniker": "CC6Server\\Program.cs",
+              "ToolTip": "C:\\Users\\sujan.ps\\source\\repos\\CC6Server\\CC6Server\\Program.cs",
+              "RelativeToolTip": "CC6Server\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwBEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T16:46:26.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\source\\repos\\CC6Server\\CC6Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CC6Server\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\sujan.ps\\source\\repos\\CC6Server\\CC6Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CC6Server\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-29T16:46:12.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\source\\repos\\CC6Server\\CC6Server\\Startup.cs",
+              "RelativeDocumentMoniker": "CC6Server\\Startup.cs",
+              "ToolTip": "C:\\Users\\sujan.ps\\source\\repos\\CC6Server\\CC6Server\\Startup.cs",
+              "RelativeToolTip": "CC6Server\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T16:33:33.762Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
